@@ -39,8 +39,7 @@ python Detecting_emotions.py --mode display
   * data (folder)
   * `emotions.py` (file)
   * `haarcascade_frontalface_default.xml` (file)
-  * `model.h5` (file)
-
+ 
 
 
 ## Data Preparation (optional)
