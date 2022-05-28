@@ -18,7 +18,7 @@ The repository is currently compatible with `tensorflow-2.0` and makes use of th
 cd Detecting_emotions
 ```
 
-* Download the FER-2013 dataset from [here](https://drive.google.com/file/d/1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr/view?usp=sharing) and unzip it inside the `src` folder. This will create the folder `data`.
+* Download the FER-2013 dataset from [here](https://drive.google.com/file/d/1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr/view?usp=sharing) and unzip it inside the `src` folder. This will create the folder `data`.I have downloaded the images and stored in folder called data in src folder
 
 * If you want to train this model, use:  
 
