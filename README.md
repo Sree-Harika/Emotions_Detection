@@ -12,9 +12,11 @@ This project aims to classify the emotion on a person's face into one of **seven
 ## Basic Usage
 
 The repository is currently compatible with `tensorflow-2.0` and makes use of the Keras API using the `tensorflow.keras` library.
+First, clone the repository and enter the folder
 
 
 ```bash
+git clone https://github.com/Sree-Harika/Emotions-detection.git
 cd Detecting_emotions
 ```
 
